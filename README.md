@@ -1,4 +1,4 @@
-# Chart-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-LLM-for-Chart [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of papers and resources on using **Large Language Models (LLMs) for Chart Understanding**, including chart data extraction, visual reasoning, chart-based QA, and chart-to-knowledge generation.
 
 Large Language Models (LLMs) have demonstrated impressive capabilities in natural language processing, vision, and multimodal tasks. Among these, understanding and reasoning over **Data Visualizations**—such as charts, plots, and graphs—is emerging as a critical research direction.
@@ -6,13 +6,14 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
 
 ## 🗂️ Table of Contents
 
-- [Chart Understanding](#chart-understanding)
-- [Chart Data Extraction and Structuring](#chart-data-extraction-and-structuring)
-- [Visual Question Answering over Charts (ChartQA)](#visual-question-answering-over-charts-chartqa)
-- [Chart-to-Text](#chart-to-text)
-- [Chart-to-KG Generation](#chart-to-kg-generation)
-- [Datasets, Benchmarks & Surveys](#datasets-benchmarks--surveys)
-- [Contributing](#contributing)
+- [Awesome-LLM-for-Chart](#awesome-LLM-for-Chart-)
+    - [Chart Understanding](#chart-understanding)
+    - [Chart Data Extraction and Structuring](#chart-data-extraction-and-structuring)
+    - [Visual Question Answering over Charts (ChartQA)](#visual-question-answering-over-charts-chartqa)
+    - [Chart-to-Text](#chart-to-text)
+    - [Chart-to-KG Generation](#chart-to-kg-generation)
+    - [Datasets, Benchmarks & Surveys](#datasets-benchmarks--surveys)
+    - [Contributing](#contributing)
 
 ## 📊 Chart Understanding
 
@@ -42,5 +43,3 @@ If you have come across relevant resources, feel free to open an issue or submit
 ```
 - (*conference|journal*) paper_name [[pdf](link)][[code](link)]
 ```
-
-
