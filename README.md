@@ -4,7 +4,7 @@ A curated list of papers and resources on using **Large Language Models (LLMs) f
 Large Language Models (LLMs) have demonstrated impressive capabilities in natural language processing, vision, and multimodal tasks. Among these, understanding and reasoning over **Data Visualizations**—such as charts, plots, and graphs—is emerging as a critical research direction.
 This repository aims to bridge the gap between **Chart Understanding** and **Large Language Models** by collecting high-quality research papers and resources that explore how LLMs can be applied to **extract**, **interpret**, and **reason** about visual data representations in charts.
 
-## 🔍 Table of Contents
+## 🗂️ Table of Contents
 
 - [Chart Understanding](#chart-understanding)
 - [Chart Data Extraction and Structuring](#chart-data-extraction-and-structuring)
