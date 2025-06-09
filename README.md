@@ -1,4 +1,4 @@
-# Chart-LLM
+# Chart-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of papers and resources on using **Large Language Models (LLMs) for Chart Understanding**, including chart data extraction, visual reasoning, chart-based QA, and chart-to-knowledge generation.
 
 Large Language Models (LLMs) have demonstrated impressive capabilities in natural language processing, vision, and multimodal tasks. Among these, understanding and reasoning over **Data Visualizations**—such as charts, plots, and graphs—is emerging as a critical research direction.
