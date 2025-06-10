@@ -7,14 +7,14 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
 
 ## 🗂️ Table of Contents
 
-- 📌 [Awesome-LLM-for-Chart](#awesome-llm-for-chart)
-- 🗂️ [Table of Contents](#table-of-contents)
-- 📊 [Chart Understanding](#chart-understanding)
-- 🧾 [Chart Data Extraction and Structuring](#chart-data-extraction-and-structuring)
-- ❓ [Visual Question Answering over Charts (ChartQA)](#visual-question-answering-over-charts-chartqa)
-- 📝 [Chart Captioning (Summarization)](#chart-captioning-summarization)
-- 📚 [Benchmarks & Surveys](#benchmarks--surveys)
-- 🤝 [Contributing](#contributing)
+- [Awesome-LLM-for-Chart](#awesome-llm-for-chart)
+- [Table of Contents](#table-of-contents)
+- [Chart Understanding](#chart-understanding)
+- [Chart Data Extraction and Structuring](#chart-data-extraction-and-structuring)
+- [Visual Question Answering over Charts (ChartQA)](#visual-question-answering-over-charts-chartqa)
+- [Chart Captioning (Summarization)](#chart-captioning-summarization)
+- [Benchmarks & Surveys](#benchmarks--surveys)
+- [Contributing](#contributing)
 
 ## 📊 Chart Understanding
 *Coming soon...*
