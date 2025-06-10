@@ -34,7 +34,7 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
 
 - *Kim, Dae Hyun, Enamul Hoque, and Maneesh Agrawala.* **Answering Questions about Charts and Generating Visual Explanations** <img src='https://img.shields.io/badge/CHI-2020-yellow'> <a href='https://dl.acm.org/doi/10.1145/3313831.3376467/'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
-- *Singh, Hrituraj, and Sumit Shekhar. "STL-CQA: Structure-based transformers with localization and encoding for chart question answering.* **STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering** <img src='https://img.shields.io/badge/EMNLP-2020-yellow'> <a href='https://aclanthology.org/2020.emnlp-main.264/'><img src='https://img.shields.io/badge/Paper-purple'></a>
+- *Singh, Hrituraj, and Sumit Shekhar.* **STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering** <img src='https://img.shields.io/badge/EMNLP-2020-yellow'> <a href='https://aclanthology.org/2020.emnlp-main.264/'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
 - *Chaudhry, Ritwick, Sumit Shekhar, Utkarsh Gupta, Pranav Maneriker, Prann Bansal, and Ajay Joshi.* **LEAF-QA: Locate, Encode & Attend for Figure Question Answering** <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://openaccess.thecvf.com/content_WACV_2020/papers/Chaudhry_LEAF-QA_Locate_Encode__Attend_for_Figure_Question_Answering_WACV_2020_paper.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
