@@ -16,10 +16,10 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
 - [Benchmarks & Surveys](#benchmarks--surveys)
 - [Contributing](#contributing)
 
-
 ---
 
 ## 📊 Chart Understanding
+
 *Coming soon...*
 
 ---
@@ -37,8 +37,8 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
 - *Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque.*  
   **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning**  
   <img src='https://img.shields.io/badge/ACL_Findings-2022-yellow'>  
-  <a href='https://aclanthology.org/2022.findings-acl.177/'><img src='https://img.shields.io/badge/Paper-blue'></a> 
-  <a href='https://github.com/vis-nlp/ChartQA'><img src='https://img.shields.io/badge/Dataset-red'></a> 
+  <a href='https://aclanthology.org/2022.findings-acl.177/'><img src='https://img.shields.io/badge/Paper-blue'></a>  
+  <a href='https://github.com/vis-nlp/ChartQA'><img src='https://img.shields.io/badge/Dataset-red'></a>  
   <img src='https://img.shields.io/badge/Benchmark-green'>
 
 - **Answering Questions about Charts and Generating Visual Explanations**  
@@ -54,11 +54,13 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
 ---
 
 ## 📝 Chart Captioning (Summarization)
+
 *Coming soon...*
 
 ---
 
 ## 📚 Benchmarks & Surveys
+
 *Coming soon...*
 
 ---
@@ -69,3 +71,4 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
 If you come across relevant resources, feel free to open an issue or submit a pull request.
 
 📌 示例格式：
+
