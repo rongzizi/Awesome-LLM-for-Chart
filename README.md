@@ -52,13 +52,11 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
 ## Chart Captioning (Summarization)
 - *Chen, Charles, Ruiyi Zhang, Eunyee Koh, Sungchul Kim, Scott Cohen, and Ryan Rossi.* **Figure Captioning with Relation Maps for Reasoning** <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Figure_Captioning_with_Relation_Maps_for_Reasoning_WACV_2020_paper.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
-- *Chen, Charles, Ruiyi Zhang, Eunyee Koh, Sungchul Kim, Scott Cohen, and Ryan Rossi.* **Figure Captioning with Relation Maps for Reasoning** <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Figure_Captioning_with_Relation_Maps_for_Reasoning_WACV_2020_paper.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
 
 ## Benchmarks, Evaluation & Surveys
 - *Xu, Zhengzhuo, Sinan Du, Yiyan Qi, Chengjin Xu, Chun Yuan, and Jian Guo.* **ChartBench: A Benchmark for Complex Visual Reasoning in Charts** <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.15915'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://huggingface.co/datasets/SincereX/ChartBench'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
-- *Obeid, Jason, and Enamul Hoque.* **ChartBench: A Benchmark for Complex Visual Reasoning in Charts** <img src='https://img.shields.io/badge/INLG-2020-yellow'> <a href='https://aclanthology.org/2020.inlg-1.20/'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/JasonObeid/Chart2Text'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 
 ## Contributing
