@@ -40,7 +40,7 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
 
 
 ## Visual Question Answering over Charts (ChartQA)
-- *Li, Zhuowan, Bhavan Jasani, Peng Tang, and Shabnam Ghadar.* **Synthesize Step-by-Step: Tools, Templates and LLMs as Data Generators for Reasoning-Based Chart VQA** <img src='https://img.shields.io/badge/CVPR-2024-yellow'> <a href='https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Synthesize_Step-by-Step_Tools_Templates_and_LLMs_as_Data_Generators_for_CVPR_2024_paper.pdf'><img src='https://img.shields.io/badge/Paper-purple''></a>
+- *Li, Zhuowan, Bhavan Jasani, Peng Tang, and Shabnam Ghadar.* **Synthesize Step-by-Step: Tools, Templates and LLMs as Data Generators for Reasoning-Based Chart VQA** <img src='https://img.shields.io/badge/CVPR-2024-yellow'> <a href='https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Synthesize_Step-by-Step_Tools_Templates_and_LLMs_as_Data_Generators_for_CVPR_2024_paper.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
 
 - *Masry, Ahmed, Do Xuan Long, Jia Qing Tan, Shafiq Joty, and Enamul Hoque.* **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning** <img src='https://img.shields.io/badge/ACL_Findings-2022-yellow'> <a href='https://aclanthology.org/2022.findings-acl.177/'><img src='https://img.shields.io/badge/Paper-purple'></a><a href='https://github.com/vis-nlp/ChartQA'><img src='https://img.shields.io/badge/Dataset-red'></a> <img src='https://img.shields.io/badge/Benchmark-green'>
