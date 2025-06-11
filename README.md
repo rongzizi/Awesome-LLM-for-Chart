@@ -17,6 +17,8 @@ This repository aims to bridge the gap between **Chart Understanding** and **Lar
   - [Contributing](#contributing)
 
 ## Chart Understanding
+- *Xu, Zhengzhuo, Qu, Bowen, Qi, Yiyan, Du, Sinan, Xu, Chengjin, Yuan, Chun, Guo, Jian.* **ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding** <img src='https://img.shields.io/badge/ICLR-2025-yellow'> <a href='https://openreview.net/pdf?id=o5TsWTUSeF'><img src='https://img.shields.io/badge/Paper-purple'></a><a href='https://github.com/IDEA-FinAI/ChartMoE'><img src='https://img.shields.io/badge/Code-orange'></a><a href='https://huggingface.co/datasets/Coobiw/ChartMoE-Data'><img src='https://img.shields.io/badge/Dataset-red'></a>
+
 - *Liu, Fuxiao, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, and Dong Yu.* **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning** <img src='https://img.shields.io/badge/NAACL-2024-yellow'> <a href='https://arxiv.org/abs/2311.10774'><img src='https://img.shields.io/badge/Paper-purple'></a>
   <a href='https://github.com/FuxiaoLiu/MMC'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
