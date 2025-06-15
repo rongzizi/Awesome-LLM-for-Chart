@@ -1,9 +1,8 @@
 # Awesome-LLM-for-Chart [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of papers and resources on using **Large Language Models (LLMs) for Chart Understanding**, including chart data extraction, visual reasoning, chart-based QA, and chart-to-knowledge generation.
+A curated collection of papers and resources on applying **Large Language Models** (LLMs) to various aspects of Chart Understanding, including **chart-based question answering, chart captioning, reverse engineering, and evaluation benchmarks**.
 
-Large Language Models (LLMs) have demonstrated impressive capabilities in natural language processing, vision, and multimodal tasks. Among these, understanding and reasoning over **Data Visualizations**—such as charts, plots, and graphs—is emerging as a critical research direction.
-This repository aims to bridge the gap between **Chart Understanding** and **Large Language Models** by collecting high-quality research papers and resources that explore how LLMs can be applied to **extract**, **interpret**, and **reason** about visual data representations in charts.
+Recent advances in LLMs have showcased remarkable capabilities across language, vision, and multimodal tasks. Among them, interpreting and reasoning over data visualizations—such as charts, plots, and graphs—has emerged as a vital frontier. This repository bridges the domains of LLMs and Chart Understanding by organizing state-of-the-art research across multiple topics, including: Chart Understanding, Chart Question Answering, Chart Captioning for summarizing chart content, Chart Reverse Engineering for recovering underlying data and structure, Benchmarks, Evaluation, and Surveys for assessing model performance and research trends.
 
 ## Table of Contents
 
