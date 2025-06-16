@@ -29,6 +29,7 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 
 - *Liu, Junteng, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He.* **On the Perception Bottleneck of VLMs for Chart Understanding** <img src='https://img.shields.io/badge/Arxiv-2025-yellow'> <a href='https://arxiv.org/pdf/2503.18435'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
+- *Hu, Linmei, Duokang Wang, Yiming Pan, Jifan Yu, Yingxia Shao, Chong Feng, and Liqiang Nie.* **NovaChart: A Large-scale Dataset towards Chart Understanding and Generation of Multimodal Large Language Models** <img src='https://img.shields.io/badge/ACM_MM-2024-yellow'> <a href='https://dl.acm.org/doi/10.1145/3664647.3680790'> <img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/Elucidator-V/NovaChart'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - *Zhang, Liang, Anwen Hu, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin, Ji Zhang, and Fei Huang.* **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning** <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://aclanthology.org/2024.emnlp-main.112.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart'><img src='https://img.shields.io/badge/Model-orange'></a>
 
@@ -43,11 +44,11 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 - *Zhou, Mingyang, Yi R. Fung, Long Chen, Christopher Thomas, Heng Ji, and Shih-Fu Chang.* **Enhanced Chart Understanding via Visual Language Pre-training on Plot Table Pairs** <img src='https://img.shields.io/badge/ACL_Findings-2023-yellow'> <a href='https://aclanthology.org/2023.findings-acl.85/'><img src='https://img.shields.io/badge/Paper-purple'></a>
   <a href='https://github.com/zmykevin/ACL2023_ChartT5'><img src='https://img.shields.io/badge/Code-orange'></a>
 
-- *Wang, Zirui, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang et al.* **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs** <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/pdf/2406.18521'><img src='https://img.shields.io/badge/Paper-purple'></a>  <a href='https://huggingface.co/datasets/princeton-nlp/CharXiv'><img src='https://img.shields.io/badge/Dataset-red'></a>
+- *Wang, Zirui, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang et al.* **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs** <img src='https://img.shields.io/badge/NIPS-2024-yellow'> <a href='https://proceedings.neurips.cc/paper_files/paper/2024/file/cdf6f8e9fd9aeaf79b6024caec24f15b-Paper-Datasets_and_Benchmarks_Track.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a>  <a href='https://huggingface.co/datasets/princeton-nlp/CharXiv'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - *Han, Yucheng, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, and Hanwang Zhang.* **ChartLlama: A Multimodal LLM for Chart Understanding and Generation** <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.16483'> <img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/tingxueronghua/ChartLlama-code'><img src='https://img.shields.io/badge/Code-orange'></a> <a href='https://huggingface.co/datasets/listen2you002/ChartLlama-Dataset'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
-- *Xia, Renqiu, Bo Zhang, Haoyang Peng, Hancheng Ye, Xiangchao Yan, Peng Ye, Botian Shi, Yu Qiao, and Junchi Yan.* **StructChart: Perception, Structuring, Reasoning for Visual Chart Understanding** <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2309.11268'><img src='https://img.shields.io/badge/Paper-purple'></a>
+- *Xia, Renqiu, Bo Zhang, Haoyang Peng, Hancheng Ye, Xiangchao Yan, Peng Ye, Botian Shi, Yu Qiao, and Junchi Yan.* **StructChart: On the Schema, Metric, and Augmentation for Visual Chart Understanding** <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2309.11268'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
 
 
@@ -121,6 +122,8 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 - *Masry, Ahmed, Mehrad Shahmohammadi, Md Rizwan Parvez, Enamul Hoque, and Shafiq Joty.* **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning** <img src='https://img.shields.io/badge/ACL Findings-2024-yellow'> <a href='https://aclanthology.org/2024.findings-acl.619.pdf'> <img src='https://img.shields.io/badge/Paper-purple'></a>  <a href='https://github.com/vis-nlp/ChartInstruct'><img src='https://img.shields.io/badge/Model-orange'></a>
 
 - *Liu, Mengsha, Daoyuan Chen, Yaliang Li, Guian Fang, and Ying Shen.* **ChartThinker: A Contextual Chain-of-Thought Approach to Optimized Chart Summarization** <img src='https://img.shields.io/badge/LREC COLING-2024-yellow'> <a href='https://aclanthology.org/2024.lrec-main.273.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/Notonion/ChartThinker'><img src='https://img.shields.io/badge/Code-orange'></a> <a href='https://huggingface.co/datasets/ChartThinker/Chart-Sum-QA'><img src='https://img.shields.io/badge/Dataset-red'></a>
+
+- *Xu, Peixin, Yujuan Ding, and Wenqi Fan.* **ChartAdapter: Large Vision-Language Model for Chart Summarization** <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2412.20715'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
 - *Tang, Benny J., Angie Boggust, and Arvind Satyanarayan.* **VisText: A Benchmark for Semantically Rich Chart Captioning** <img src='https://img.shields.io/badge/ACL-2023-yellow'> <a href='https://aclanthology.org/2023.acl-long.401/'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/mitvis/vistext'><img src='https://img.shields.io/badge/Dataset-red'></a> <img src='https://img.shields.io/badge/Benchmark-green'>
 
