@@ -34,6 +34,8 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 
 - *Liu, Fuxiao, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, and Dong Yu.* **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning** <img src='https://img.shields.io/badge/NAACL-2024-yellow'> <a href='https://arxiv.org/abs/2311.10774'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/FuxiaoLiu/MMC'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
+- *Fan, Wan-Cyuan, Yen-Chun Chen, Mengchen Liu, Lu Yuan, and Leonid Sigal.* **On Pre-training of Multimodal Language Models Customized for Chart Understanding** <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2407.14506'><img src='https://img.shields.io/badge/Paper-purple'></a>
+
 - *Masry, Ahmed, Parsa Kavehzadeh, Xuan Long Do, Enamul Hoque, and Shafiq Joty.* **UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning** <img src='https://img.shields.io/badge/EMNLP-2023-yellow'> <a href='https://aclanthology.org/2023.emnlp-main.906/'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/vis-nlp/UniChart'><img src='https://img.shields.io/badge/Code-orange'></a>
 
 - *Lee, Kenton, Mandar Joshi, Iulia Raluca Turc, Hexiang Hu, Fangyu Liu, Julian Martin Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, and Kristina Toutanova.* **Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding** <img src='https://img.shields.io/badge/ICML-2023-yellow'> <a href='https://proceedings.mlr.press/v202/lee23g/lee23g.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://huggingface.co/google/pix2struct-base'><img src='https://img.shields.io/badge/Code-orange'></a>
@@ -50,7 +52,12 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 
 
 ## Visual Question Answering over Charts (ChartQA)
+
+- *Huang, Muye, Lingling Zhang, Han Lai, Wenjun Wu, Xinyu Zhang, and Jun Liu.* **VProChart: Answering Chart Question through Visual Perception Alignment Agent and Programmatic Solution Reasoning** <img src='https://img.shields.io/badge/AAAI-2025-yellow'> <a href='https://ojs.aaai.org/index.php/AAAI/article/view/32384'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/MuyeHuang/VProChart'><img src='https://img.shields.io/badge/Model-orange'></a>
+
 - *Ford, James, Xingmeng Zhao, Dan Schumacher, and Anthony Rios.* **Charting the Future: Using Chart Question-Answering for Scalable Evaluation of LLM-Driven Data Visualizations** <img src='https://img.shields.io/badge/COLING-2025-yellow'> <a href='https://aclanthology.org/2025.coling-main.501.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a>
+
+- *Masry, Ahmed, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, and Shafiq Joty.* **ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild** <img src='https://img.shields.io/badge/COLING-2025-yellow'> <a href='https://aclanthology.org/2025.coling-industry.54.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://huggingface.co/ahmed-masry/chartgemma'><img src='https://img.shields.io/badge/Model-orange'></a> <a href='https://huggingface.co/datasets/ahmed-masry/ChartGemma'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - *Masry, Ahmed, Do Xuan Long, Jia Qing Tan, Shafiq Joty, and Enamul Hoque.* **ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering** <img src='https://img.shields.io/badge/Arxiv_2025-yellow'> <a href='https://arxiv.org/abs/2504.05506v2'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/vis-nlp/ChartQAPro'><img src='https://img.shields.io/badge/Code-orange'></a> <a href='https://huggingface.co/datasets/ahmed-masry/ChartQAPro'><img src='https://img.shields.io/badge/Dataset-red'></a> <img src='https://img.shields.io/badge/Benchmark-green'>
 
@@ -64,6 +71,8 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 
 - *Masry, Ahmed, Mehrad Shahmohammadi, Md Rizwan Parvez, Enamul Hoque, and Shafiq Joty.* **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning** <img src='https://img.shields.io/badge/ACL Findings-2024-yellow'> <a href='https://aclanthology.org/2024.findings-acl.619.pdf'> <img src='https://img.shields.io/badge/Paper-purple'></a>  <a href='https://github.com/vis-nlp/ChartInstruct'><img src='https://img.shields.io/badge/Model-orange'></a>
 
+- *Wu, Yifan, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, and Yuyu Luo.* **ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering** <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://aclanthology.org/2024.findings-emnlp.710/'> <img src='https://img.shields.io/badge/Paper-purple'></a>  <a href='https://github.com/ChartInsight'><img src='https://img.shields.io/badge/Code-orange'></a> <a href='https://github.com/ChartInsight/chartinsight/tree/main/Dataset'><img src='https://img.shields.io/badge/Dataset-red'></a>
+
 - *Zhang, Wenqi, Zhenglin Cheng, Yuanyu He, Mengna Wang, Yongliang Shen, Zeqi Tan, Guiyang Hou et al.* **Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model** <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://aclanthology.org/2024.emnlp-main.1072.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/zwq2018/Multi-modal-Self-instruct'><img src='https://img.shields.io/badge/Code-orange'></a> <a href='https://huggingface.co/datasets/zwq2018/Multi-modal-Self-instruct'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - *Carbune, Victor, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, and Abhanshu Sharma.* **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs** <img src='https://img.shields.io/badge/NAACL Findings-2024-yellow'> <a href='https://aclanthology.org/2024.findings-naacl.62.pdf'><img src='https://img.shields.io/badge/Paper-purple'></a>
@@ -71,6 +80,8 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 - *Liu, Fuxiao, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, and Dong Yu.* **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning** <img src='https://img.shields.io/badge/NAACL-2024-yellow'> <a href='https://arxiv.org/abs/2311.10774'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/FuxiaoLiu/MMC'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - *Yang, Xudong, Yifan Wu, Yizhang Zhu, Nan Tang, and Yuyu Luo.* **AskChart: Universal Chart Understanding through Textual Enhancement** <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2412.19146'><img src='https://img.shields.io/badge/Paper-purple'></a>
+
+- *Fan, Wan-Cyuan, Yen-Chun Chen, Mengchen Liu, Lu Yuan, and Leonid Sigal.* **On Pre-training of Multimodal Language Models Customized for Chart Understanding** <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2407.14506'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
 - *He, Wei, Zhiheng Xi, Wanxu Zhao, Xiaoran Fan, Yiwen Ding, Zifei Shan, Tao Gui, Qi Zhang, and Xuanjing Huang.* **Distill Visual Chart Reasoning Ability from LLMs to MLLMs** <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2410.18798'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/hewei2001/ReachQA'><img src='https://img.shields.io/badge/Code-orange'></a> <a href='https://huggingface.co/datasets/hewei2001/ReachQA'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
@@ -136,6 +147,8 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 
 ## Chart Reverse Engineering
 - *Zhou, Zhiguang, Haoxuan Wang, Zhengqing Zhao, Fengling Zheng, Yongheng Wang, Wei Chen, and Yong Wang.* **ChartKG: A Knowledge-Graph-Based Representation for Chart Images** <img src='https://img.shields.io/badge/TVCG_2024-yellow'> <a href='https://ieeexplore.ieee.org/document/10711251'><img src='https://img.shields.io/badge/Paper-purple'></a>
+
+- *Ying, Lu, Yun Wang, Haotian Li, Shuguang Dou, Haidong Zhang, Xinyang Jiang, Huamin Qu, and Yingcai Wu.* **Reviving Static Charts into Live Charts** <img src='https://img.shields.io/badge/TVCG_2024-yellow'> <a href='https://ieeexplore.ieee.org/document/10530507'><img src='https://img.shields.io/badge/Paper-purple'></a>
   
 - *Lu, Pan, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, and Jianfeng Gao.* **MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models** <img src='https://img.shields.io/badge/ICLR-2024-yellow'> <a href='https://arxiv.org/abs/2310.02255'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://huggingface.co/datasets/AI4Math/MathVista'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
