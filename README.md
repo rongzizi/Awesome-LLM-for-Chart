@@ -53,6 +53,7 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 
 
 ## Visual Question Answering over Charts (ChartQA)
+- *Huang, Muye, Han Lai, Xinyu Zhang, Wenjun Wu, Jie Ma, Lingling Zhang, and Jun Liu* **EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding** <img src='https://img.shields.io/badge/AAAI-2025-yellow'> <a href='https://ojs.aaai.org/index.php/AAAI/article/view/32383'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/MuyeHuang/EvoChart'><img src='https://img.shields.io/badge/Code-orange'></a>
 
 - *Huang, Muye, Lingling Zhang, Han Lai, Wenjun Wu, Xinyu Zhang, and Jun Liu.* **VProChart: Answering Chart Question through Visual Perception Alignment Agent and Programmatic Solution Reasoning** <img src='https://img.shields.io/badge/AAAI-2025-yellow'> <a href='https://ojs.aaai.org/index.php/AAAI/article/view/32384'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/MuyeHuang/VProChart'><img src='https://img.shields.io/badge/Model-orange'></a>
 
@@ -116,6 +117,8 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 
 ## Chart Captioning (Summarization)
 - *Lim, Junyoung, Jaewoo Ahn, and Gunhee Kim.* **ChartCap: Mitigating Hallucination of Dense Chart Captioning** <img src='https://img.shields.io/badge/ICCV-2025-yellow'> <a href='https://arxiv.org/pdf/2508.03164'><img src='https://img.shields.io/badge/Paper-purple'></a>
+
+- *Wang, Fen, Bomiao Wang, Xueli Shu, Zhen Liu, Zekai Shao, Chao Liu, and Siming Chen.* **ChartInsighter: An Approach for Mitigating Hallucination in Time-series Chart Summary Generation with A Benchmark Dataset** <img src='https://img.shields.io/badge/TVCG-2025-yellow'> <a href='https://ieeexplore.ieee.org/abstract/document/10988687'><img src='https://img.shields.io/badge/Paper-purple'></a>
 
 - *Ko, Hyung-Kwon, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, and Jinwook Seo.* **Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models** <img src='https://img.shields.io/badge/CHI-2024-yellow'> <a href='https://dl.acm.org/doi/pdf/10.1145/3613904.3642943'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/hyungkwonko/chart-llm'><img src='https://img.shields.io/badge/Code-orange'></a> <a href='https://dl.acm.org/doi/10.1145/3613904.3642943'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
