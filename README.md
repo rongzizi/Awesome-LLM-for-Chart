@@ -115,6 +115,8 @@ Recent advances in LLMs have showcased remarkable capabilities across language, 
 
 
 ## Chart Captioning (Summarization)
+- *Lim, Junyoung, Jaewoo Ahn, and Gunhee Kim.* **ChartCap: Mitigating Hallucination of Dense Chart Captioning** <img src='https://img.shields.io/badge/ICCV-2025-yellow'> <a href='https://arxiv.org/pdf/2508.03164'><img src='https://img.shields.io/badge/Paper-purple'></a>
+
 - *Ko, Hyung-Kwon, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, and Jinwook Seo.* **Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models** <img src='https://img.shields.io/badge/CHI-2024-yellow'> <a href='https://dl.acm.org/doi/pdf/10.1145/3613904.3642943'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://github.com/hyungkwonko/chart-llm'><img src='https://img.shields.io/badge/Code-orange'></a> <a href='https://dl.acm.org/doi/10.1145/3613904.3642943'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - *Huang, Kung-Hsiang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, and Heng Ji.* **Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning** <img src='https://img.shields.io/badge/ACL_Findings-2024-yellow'> <a href='Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning'><img src='https://img.shields.io/badge/Paper-purple'></a> <a href='https://huggingface.co/datasets/khhuang/CHOCOLATE'><img src='https://img.shields.io/badge/Dataset-red'></a>
